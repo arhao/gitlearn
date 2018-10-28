@@ -6,7 +6,7 @@
 
       C:\PyCharm 2018.2\bin\JetbrainsCrack-2.8-release-enc.jar这个代表的是破解补丁文件的路径，一定要根据实际的路径填写
   3）选择 Activate code(激活码激活)
-
+just learn for git
 
 ThisCrackLicenseId-{
 "licenseId":"11011",
